@@ -1,2 +1,2 @@
-seaborn=0.7.1
-requests=2.11.1
+seaborn==0.7.1
+requests==2.11.1
