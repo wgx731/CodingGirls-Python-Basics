@@ -1,6 +1,6 @@
 # CodingGirls - Python For Beginners (18th Sep 2016, 1:30 - 5:00 pm, SG)
 
-## Class 01 - Python Basics
+## Class 01 - Python Basics /play letitgo
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/wgx731/2016-CodingGirls-Python-Basics)
 
