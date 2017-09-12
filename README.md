@@ -32,7 +32,7 @@
 
 ## Jupyter From [Mybinder](https://mybinder.org)
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/repo/wgx731/CodingGirls-Python-Basics)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/wgx731/CodingGirls-Python-Basics)
 
 *NOTE: Mybinder instance may be shared by other users.*
 
